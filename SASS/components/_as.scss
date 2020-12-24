@@ -1,0 +1,8 @@
+a{
+    font-style: italic;
+    text-decoration: none;
+  }
+.a_active{
+    color: $complementary-colour-3;
+    @include hvr;
+}

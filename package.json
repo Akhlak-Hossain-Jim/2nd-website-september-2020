@@ -1,0 +1,12 @@
+{
+    "name": "writing-sass",
+    "version": "1.0.0",
+    "description": "AHossainJim_portfolio",
+    "main": "index.js",
+    "scripts": {
+    "sass": "sass --watch./SASS/main.scss:./CSS/stylesheet.css --style compressed"
+    },
+    "author": "AHossainJim",
+    "license": "ISC"
+  }
+  
