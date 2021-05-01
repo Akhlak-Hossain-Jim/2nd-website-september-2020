@@ -1,5 +1,3 @@
-@import "./utils/variables";
-@import "./utils/functions";
 @import "./utils/mixins";
 @import "./utils/colors";
 
@@ -12,8 +10,7 @@
 @import "./layout/header";
 @import "./layout/nav";
 @import "./layout/footer";
-@import "./layout/form";
-
+@import "./layout/forms";
 
 @import "./pages/contact";
 @import "./pages/about";
